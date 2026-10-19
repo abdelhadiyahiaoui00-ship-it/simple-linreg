@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='simple-linreg',
+    name='simple-linreg-abdelhadi',,
     version='0.1.0',
     author='Your Name',
     author_email='you@example.com',
