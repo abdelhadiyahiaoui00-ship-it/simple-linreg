@@ -1,4 +1,4 @@
-name: Publish to TestPyPI
+name: Publish to PyPI
 on:
   workflow_dispatch:
 
@@ -28,4 +28,3 @@ jobs:
           name: dist
           path: dist/
       - uses: pypa/gh-action-pypi-publish@release/v1
-
